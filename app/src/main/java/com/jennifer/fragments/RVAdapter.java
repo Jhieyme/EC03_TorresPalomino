@@ -64,5 +64,8 @@ public class RVAdapter extends RecyclerView.Adapter<RVAdapter.ResumeVH>{
                     .build();
             imageLoader.enqueue(request);
         }
+
+
+
     }
 }
